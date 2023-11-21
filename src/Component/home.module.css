@@ -1,0 +1,46 @@
+/* home.module.css */
+
+/* Container for the entire game */
+.game-container {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Title styling */
+h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Container for buttons */
+.buttons-container {
+    margin-bottom: 20px;
+}
+
+/* General button styling */
+button {
+    margin: 0 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Grid container styling */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(100, 20px);
+}
+
+/* Shared style for buttons */
+.button-style {
+    margin-bottom: 10px;
+    background-color: rgb(150, 150, 206);
+}
+
+/* Styling for individual grid cells */
+.grid-cell {
+    width: 20px;
+    height: 20px;
+    border: solid 1px black;
+}
+
