@@ -37,7 +37,7 @@ const buttonStyle = {
 
 // Constants for simulation interval and random cell probability
 
-const SIMULATION_INTERVAL = 1000;
+const SIMULATION_INTERVAL = 200;
 const RANDOM_CELL_PROBABILITY = 0.7;
 
 // Main component
